@@ -49,16 +49,15 @@ Data Period:
 
 ## Example
 
-```python
 estimate_price('2023-06-15')
 
-##Project Structure
+## Project Structure
 JPMORGAN PROJECT/
 │
 ├── Nat_Gas.csv
 ├── natural_gas.ipynb
 └── requirements.txt
-##Author
+## Author
 Barnice Malingu
 
 Aspiring Data Analyst | Python | SQL | Data Visualization | Business Intelligence
