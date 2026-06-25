@@ -53,10 +53,9 @@ estimate_price('2023-06-15')
 
 ## Project Structure
 JPMORGAN PROJECT/
-│
-├── Nat_Gas.csv
-├── natural_gas.ipynb
-└── requirements.txt
+   Nat_Gas.csv
+   natural_gas.ipynb
+   requirements.txt
 ## Author
 Barnice Malingu
 
