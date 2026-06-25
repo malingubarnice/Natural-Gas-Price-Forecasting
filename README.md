@@ -53,9 +53,14 @@ estimate_price('2023-06-15')
 
 ## Project Structure
 JPMORGAN PROJECT/
-   Nat_Gas.csv
-   natural_gas.ipynb
-   requirements.txt
+•	Nat_Gas.csv
+•	natural_gas.ipynb
+•	requirements.txt
+
+## Visualizations
+![Natural Gas Price Trend Line](Page1.png)
+![Predicted Natural Gas Price Trend Line](Page2.png)
+
 ## Author
 Barnice Malingu
 
